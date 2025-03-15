@@ -1,5 +1,6 @@
 Saya Hasbi Haqqul Fikri dengan NIM 2309245 mengerjakan soal TP 3 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
+![Diagram](https://github.com/user-attachments/assets/b42fa21b-cda4-4425-b2c3-006c9cbd09e8)
 
 Inheritance
 Konsep inheritance dalam kode ini diterapkan dengan membuat kelas Komponen sebagai superclass utama, yang kemudian diwarisi oleh Cpu, Gpu, Ram, Harddrive, dan PowerSupply. Dengan cara ini, setiap komponen komputer memiliki atribut dasar seperti merk dan nama, tanpa perlu menuliskannya ulang di setiap kelas turunannya. Sebagai contoh, kelas Cpu mewarisi dari Komponen dan menambahkan atribut spesifik seperti jumlahCore dan kecepatanGHz. Dengan inheritance, struktur kode menjadi lebih modular dan terorganisir, karena semua komponen yang berbagi sifat dasar dapat menggunakannya tanpa duplikasi kode.
